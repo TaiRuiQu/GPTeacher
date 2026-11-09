@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.agents/
+.claude/
+.taste-skill/
+.npm-cache/
+test-results/
+package-lock.json
+skills-lock.json
